@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/kkpoon/stt-server#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "morgan": "^1.8.2"
+    "fluent-ffmpeg": "^2.1.2",
+    "morgan": "^1.8.2",
+    "node-fetch": "^1.7.0"
   }
 }
