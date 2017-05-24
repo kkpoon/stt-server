@@ -1,0 +1,23 @@
+{
+  "name": "stt-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkpoon/stt-server.git"
+  },
+  "author": "kkpoon <noopkk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/kkpoon/stt-server/issues"
+  },
+  "homepage": "https://github.com/kkpoon/stt-server#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
